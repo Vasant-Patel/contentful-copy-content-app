@@ -1,6 +1,6 @@
-# `Contentful Missing Translations App`
+# `Contentful Copy Content App`
 
-App lists missing translations
+App for copying contentful entries
 
 
 ## How to use
