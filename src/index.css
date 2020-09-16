@@ -7,3 +7,9 @@ body {
   font: inherit;
   vertical-align: baseline;
 }
+
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
