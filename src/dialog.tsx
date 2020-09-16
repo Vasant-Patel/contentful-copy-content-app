@@ -159,6 +159,7 @@ export default function Dialog({ sdk }: { sdk: DialogExtensionSDK }) {
         <TextField
           name="pwd"
           id="pwd"
+          textInputProps={{type: "password"}}
           value={password}
           onChange={onPasswordChange}
           labelText="Password"
